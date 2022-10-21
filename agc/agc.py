@@ -24,12 +24,12 @@ from collections import Counter
 # ftp://ftp.ncbi.nih.gov/blast/matrices/
 import nwalign3 as nw
 
-__author__ = "Clémence Lauden"
+__author__ = "Clemence Lauden"
 __copyright__ = "Universite Paris Diderot"
-__credits__ = ["Clémence Lauden"]
+__credits__ = ["Clemence Lauden"]
 __license__ = "GPL"
 __version__ = "1.0.0"
-__maintainer__ = "Clémence Lauden"
+__maintainer__ = "Clemence Lauden"
 __email__ = "clemence.lauden@hotmail.fr"
 __status__ = "Developpement"
 
